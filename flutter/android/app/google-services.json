@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716565211639",
+    "project_id": "labexam-80db3",
+    "storage_bucket": "labexam-80db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716565211639:android:6e38d1e37fe45280a1a6f2",
+        "android_client_info": {
+          "package_name": "com.example.labexam210970"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716565211639-rc3594nfdn156m7ejli5vc2p76beo2l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXRH42lHJNo_ovGJx69q2mr7Es-a6fvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716565211639-rc3594nfdn156m7ejli5vc2p76beo2l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
